@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/school_portal/static/css/main.1e0bcb5a.css",
+    "main.js": "/school_portal/static/js/main.7ab4a5e6.js",
+    "static/media/about_b_3.jpg": "/school_portal/static/media/about_b_3.d85b9362d0d956d1964d.jpg",
+    "static/media/slider_2_new.jpg": "/school_portal/static/media/slider_2_new.45607a3e8cd455b0902a.jpg",
+    "static/media/slider_1_new.jpg": "/school_portal/static/media/slider_1_new.a8bb9fc2a99747a0c46c.jpg",
+    "static/media/slider_3_new.jpg": "/school_portal/static/media/slider_3_new.5d989d2dba8eba75016e.jpg",
+    "static/media/contact_b_4.jpg": "/school_portal/static/media/contact_b_4.5d28dc13b09acce01b84.jpg",
+    "static/media/maps_img.jfif": "/school_portal/static/media/maps_img.af3ee583e77bf72c9980.jfif",
+    "static/media/about_3.jpg": "/school_portal/static/media/about_3.b972ab1463cf95a907fc.jpg",
+    "static/media/Background_admission_4.jpg": "/school_portal/static/media/Background_admission_4.f5af177850951244f6a7.jpg",
+    "static/media/admission_2.jpg": "/school_portal/static/media/admission_2.663c89747c09f82a6e66.jpg",
+    "index.html": "/school_portal/index.html",
+    "main.1e0bcb5a.css.map": "/school_portal/static/css/main.1e0bcb5a.css.map",
+    "main.7ab4a5e6.js.map": "/school_portal/static/js/main.7ab4a5e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e0bcb5a.css",
+    "static/js/main.7ab4a5e6.js"
+  ]
+}
