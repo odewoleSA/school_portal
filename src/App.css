@@ -2,7 +2,9 @@
   background-color: #afa6a6;
 } */
 .jumbotron{
-background: #728d94;
+  background: #728d94;
+  height: 100%;
+  margin: 2rem auto auto;
 }
 .nav-item{
   margin-right: 10px;

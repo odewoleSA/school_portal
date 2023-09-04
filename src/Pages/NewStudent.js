@@ -1,11 +1,11 @@
 import React from 'react';
-import './App.css';
+import '.././App.css';
 
 function NewStudent() {
   return (
-
-    <h4>New Student Page</h4>
-   
+    <>
+      <h1>New Student Page</h1>
+    </>
   );
 }
 

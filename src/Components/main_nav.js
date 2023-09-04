@@ -1,19 +1,19 @@
 import React from 'react';
-import './App.css';
+import '../App.css';
 
 function Nav() {
   return (
-
-    <nav className="navbar navbar-expand-sm bg-dark navbar-dark justify-content-center">
-        {/* <a className="navbar-brand" href="#">Logo</a> */}
-
+    <nav className="navbar navbar-expand-sm bg-dark navbar-dark">
+        <a className="navbar-brand" href="#">
+            SCHL <i className='fa fa-graduation-cap' />
+        </a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
             <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse justify-content-center" id="collapsibleNavbar">
             <ul className="navbar-nav">
                 <li className="nav-item">
-                    <a className="nav-link" href="/">Home</a>
+                    <a className="nav-link" href="/school_portal">Home</a>
                 </li>
                 <li className="nav-item dropdown">
                     <a className="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
@@ -42,9 +42,6 @@ function Nav() {
                 <li className="nav-item">
                     <a className="nav-link" href="/career">Career</a>
                 </li>
-                {/* <li className="nav-item  btn btn-primary btn-sm">
-                    <a className="nav-link" href="#">Sign Up</a>
-                </li> */}
             </ul>
         </div>
     </nav>

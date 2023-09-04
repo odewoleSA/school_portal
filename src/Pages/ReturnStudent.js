@@ -1,10 +1,10 @@
 import React from 'react';
-import './App.css';
+import '.././App.css';
 
 function ReturnStudent() {
   return (
 
-    <h4>Returning Student Page</h4>
+    <h1>Returning Student Page</h1>
    
   );
 }
