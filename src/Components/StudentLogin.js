@@ -1,5 +1,6 @@
 import React,{useState} from 'react'
 import $ from 'jquery';
+// import '../Pages/Home.css';
 
 function StudentLogin() {
 
@@ -22,7 +23,7 @@ function StudentLogin() {
   return (
     <>
         <div className="col-sm-4 col-md-4 col-lg-4 ">
-            <div className="jumbotron">
+            <div className="jumbotron" id="studentLogin">
             <form action="/login" method="POST" id="loginForm" style={{width:'80%',marginLeft: 'auto',marginRight: 'auto',marginTop: '6%'}}> 
                 <h4 style={{color:'white',fontWeight:'bold',textAlign:'center' }}>STUDENT LOGIN</h4>
                 <div className="form-group">
